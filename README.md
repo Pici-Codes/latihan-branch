@@ -1,2 +1,2 @@
 # latihan-branch
-Repository untuk mendokumentasikan proses belajar branch
+Ini adalah repository untuk mendokumentasikan proses belajar brances pada Git
