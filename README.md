@@ -16,3 +16,6 @@ Tapi saya juga membuat perbedaan read me di main branch
 **Ini coba commit squash 2**
 **Ini coba commit squash 3**
 
+### Kali ini kita belajar code review
+**Coba kita ajukan line baru ini yang akan diberikan review setelahnya**
+
