@@ -13,4 +13,5 @@ Tapi saya juga membuat perbedaan read me di main branch
 
 ### Kali ini kita tambahin belajar squash
 **Ini coba commit squash 1**
+**Ini coba commit squash 2**
 
