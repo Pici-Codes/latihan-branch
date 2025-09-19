@@ -18,4 +18,5 @@ Tapi saya juga membuat perbedaan read me di main branch
 
 ### Kali ini kita belajar code review
 **Coba kita ajukan line baru ini yang akan diberikan review setelahnya**
+*Tadi salah update readme haha ini baru kitam mau PR ke main, terus kita belajar code review*
 
