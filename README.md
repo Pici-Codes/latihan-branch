@@ -11,3 +11,6 @@ Setelah itu ditambahkan subheading<br>
 ### Ini adalah repository untuk mendokumentasikan proses belajar brances pada Git
 Tapi saya juga membuat perbedaan read me di main branch
 
+### Kali ini kita tambahin belajar squash
+**Ini coba commit squash 1**
+
